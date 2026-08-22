@@ -221,18 +221,18 @@ A full-stack platform for managing student internships, applications, users, and
 
 <td width="50%">
 
-## 🎓 EduArena
+## 📺 YouTube Clone
 
-### AI-Powered Learning Platform
+### YouTube Clone
 
-An EdTech platform focused on creating an interactive and personalized learning experience.
+A YouTube-inspired web application built to practice modern frontend development and create a responsive video browsing experience.
 
 **Tech Stack**
 
-`React.js` `FastAPI` `AI/ML`
+`React.js` `JavaScript` `HTML` `CSS`
 
-<a href="https://github.com/calligraphyguruji">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/calligraphyguruji/YouTube-Clone">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
@@ -241,42 +241,41 @@ An EdTech platform focused on creating an interactive and personalized learning 
 <tr>
 <td width="50%">
 
-## 🌾 Agri-Smart
+## 💼 Internship Advisor
 
-### AI-Based Agriculture Solution
+### Internship Advisor Mini Project
 
-A machine-learning based agriculture project designed to assist agricultural decision-making using predictive analytics.
+A mini project designed to help students explore and identify suitable internship opportunities based on their interests and requirements.
 
 **Tech Stack**
 
-`Python` `FastAPI` `Random Forest`
+`Python` `Machine Learning`
 
-<a href="https://github.com/calligraphyguruji">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/calligraphyguruji/Internship-Advisor-Mini-Project">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
 
 <td width="50%">
 
-## 🛒 Online Shopping Cart
+## 💰 Expense Tracker
 
-### Shopping Cart Management System
+### Expense Tracker
 
-A software project focused on product management and shopping cart operations.
+An application for tracking and managing personal expenses, helping users monitor their spending and maintain better financial records.
 
 **Tech Stack**
 
-`C++` `Data Structures`
+`JavaScript` `HTML` `CSS`
 
-<a href="https://github.com/calligraphyguruji">
-<img src="https://img.shields.io/badge/View%20Projects-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/calligraphyguruji/Expense-Tracker">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
 </tr>
 </table>
-
 ---
 
 # 🧠 LeetCode
