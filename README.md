@@ -211,7 +211,7 @@ A full-stack platform for managing student internships, applications, users, and
 
 **Tech Stack**
 
-`React.js` `Node.js` `Express.js` `MongoDB`
+`React.js` `Node.js` `Express.js` `MongoDB` `JWT auth` `Vite`
 
 <a href="https://github.com/calligraphyguruji/SIMS_Student_InternShip_Management_System">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
@@ -229,7 +229,7 @@ A YouTube-inspired web application built to practice modern frontend development
 
 **Tech Stack**
 
-`React.js` `JavaScript` `HTML` `CSS`
+`HTML` `CSS`
 
 <a href="https://github.com/calligraphyguruji/YouTube-Clone">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
@@ -267,7 +267,7 @@ An application for tracking and managing personal expenses, helping users monito
 
 **Tech Stack**
 
-`JavaScript` `HTML` `CSS`
+`Python` `JSON` 
 
 <a href="https://github.com/calligraphyguruji/Expense-Tracker">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
