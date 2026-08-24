@@ -285,21 +285,36 @@ An application for tracking and managing personal expenses, helping users monito
   </a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Current%20Streak-Live-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="Current Streak"/>
-  <img src="https://img.shields.io/badge/Max%20Streak-Live-red?style=for-the-badge&logo=leetcode&logoColor=white" alt="Max Streak"/>
+  <img src="https://img.shields.io/endpoint?url=https://leetinfo-api.vercel.app/api/shields?username=calligraphyguruji%26stat=solved%26label=Problems%20Solved%26color=FFA116"
+       alt="Problems Solved"/>
+
+  <img src="https://img.shields.io/endpoint?url=https://leetinfo-api.vercel.app/api/shields?username=calligraphyguruji%26stat=ranking%26label=Contest%20Rating%26color=0A66C2"
+       alt="Contest Rating"/>
 </p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Problems%20Solved-Live-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Problems Solved"/>
-  <img src="https://img.shields.io/badge/Contest%20Rating-Live-0A66C2?style=for-the-badge&logo=leetcode&logoColor=white" alt="Contest Rating"/>
+  <img src="https://img.shields.io/endpoint?url=https://leetinfo-api.vercel.app/api/shields?username=calligraphyguruji%26stat=easy%26label=Easy%26color=00B8A3"
+       alt="Easy"/>
+
+  <img src="https://img.shields.io/endpoint?url=https://leetinfo-api.vercel.app/api/shields?username=calligraphyguruji%26stat=medium%26label=Medium%26color=FFA116"
+       alt="Medium"/>
+
+  <img src="https://img.shields.io/endpoint?url=https://leetinfo-api.vercel.app/api/shields?username=calligraphyguruji%26stat=hard%26label=Hard%26color=EF4747"
+       alt="Hard"/>
 </p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Easy-Live-00B8A3?style=for-the-badge&logo=leetcode&logoColor=white" alt="Easy"/>
-  <img src="https://img.shields.io/badge/Medium-Live-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Medium"/>
-  <img src="https://img.shields.io/badge/Hard-Live-EF4747?style=for-the-badge&logo=leetcode&logoColor=white" alt="Hard"/>
+  <img src="https://img.shields.io/endpoint?url=https://leetinfo-api.vercel.app/api/shields?username=calligraphyguruji%26stat=streak%26label=Current%20Streak%26color=FFA116"
+       alt="Current Streak"/>
+
+  <img src="https://img.shields.io/endpoint?url=https://leetinfo-api.vercel.app/api/shields?username=calligraphyguruji%26stat=longeststreak%26label=Max%20Streak%26color=EF4747"
+       alt="Max Streak"/>
 </p>
+
 <p align="center">
   <a href="https://leetcode.com/u/calligraphyguruji/">
-    <img src="https://img.shields.io/badge/View%20My%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
+    <img src="https://img.shields.io/badge/View%20My%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+         alt="LeetCode Profile"/>
   </a>
 </p>
 
