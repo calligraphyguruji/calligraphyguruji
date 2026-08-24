@@ -277,7 +277,7 @@ An application for tracking and managing personal expenses, helping users monito
 </table>
 ---
 
-🧠 LeetCode
+#🧠 LeetCode
 
 <p align="center">
   <a href="https://leetcode.com/u/calligraphyguruji/">
