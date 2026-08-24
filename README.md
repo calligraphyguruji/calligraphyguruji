@@ -277,17 +277,29 @@ An application for tracking and managing personal expenses, helping users monito
 </table>
 ---
 
-# 🧠 LeetCode
+🧠 LeetCode
 
 <p align="center">
   <a href="https://leetcode.com/u/calligraphyguruji/">
     <img src="https://leetcard.jacoblin.cool/calligraphyguruji?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
   </a>
 </p>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Current%20Streak-Live-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="Current Streak"/>
+  <img src="https://img.shields.io/badge/Max%20Streak-Live-red?style=for-the-badge&logo=leetcode&logoColor=white" alt="Max Streak"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Problems%20Solved-Live-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Problems Solved"/>
+  <img src="https://img.shields.io/badge/Contest%20Rating-Live-0A66C2?style=for-the-badge&logo=leetcode&logoColor=white" alt="Contest Rating"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Easy-Live-00B8A3?style=for-the-badge&logo=leetcode&logoColor=white" alt="Easy"/>
+  <img src="https://img.shields.io/badge/Medium-Live-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Medium"/>
+  <img src="https://img.shields.io/badge/Hard-Live-EF4747?style=for-the-badge&logo=leetcode&logoColor=white" alt="Hard"/>
+</p>
 <p align="center">
   <a href="https://leetcode.com/u/calligraphyguruji/">
-    <img src="https://img.shields.io/badge/LeetCode-calligraphyguruji-orange?style=for-the-badge&logo=leetcode"/>
+    <img src="https://img.shields.io/badge/View%20My%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
   </a>
 </p>
 
