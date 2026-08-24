@@ -5,11 +5,10 @@ Software Developer • CSE Student • DSA Enthusiast • AI/ML Learner
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=calligraphyguruji&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/calligraphyguruji?label=Followers&style=flat" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/calligraphyguruji?label=Stars&style=flat" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=calligraphyguruji&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/calligraphyguruji?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/calligraphyguruji?label=Stars&style=for-the-badge&color=0e75b6" alt="GitHub Stars"/>
 </p>
-
 <p align="center">
   <a href="https://github.com/calligraphyguruji">
     <img src="https://github-profile-trophy.vercel.app/?username=calligraphyguruji&theme=flat&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies"/>
