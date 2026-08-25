@@ -258,24 +258,24 @@ A mini project designed to help students explore and identify suitable internshi
 
 <td width="50%">
 
-## 💰 Expense Tracker
+## 🧩 LeetCode Questions
 
-### Expense Tracker
+### LeetCode Questions
 
-An application for tracking and managing personal expenses, helping users monitor their spending and maintain better financial records.
+A collection of my solved LeetCode problems, covering Data Structures, Algorithms, and various problem-solving patterns.
 
 **Tech Stack**
 
-`Python` `JSON` 
+`C++` `Data Structures & Algorithms`
 
-<a href="https://github.com/calligraphyguruji/Expense-Tracker">
+<a href="https://github.com/calligraphyguruji/LeetCode-Questions">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
 </tr>
 </table>
----
+------
 
 ## 🧠 LeetCode
 
