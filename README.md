@@ -168,11 +168,10 @@ https://github.com/calligraphyguruji/SIMS_Student_InternShip_Management_System
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=calligraphyguruji&theme=github&hide_border=true&area=true"
-    alt="GitHub Contribution Activity Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=calligraphyguruji"
+    alt="GitHub Activity Graph"
   />
 </p>
-
 ---
 
 <h2 align="center">🔥 GitHub Contribution Streak</h2>
