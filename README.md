@@ -179,7 +179,7 @@ https://github.com/calligraphyguruji/SIMS_Student_InternShip_Management_System
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=calligraphyguruji&hide_border=true"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=calligraphyguruji&theme=github-dark&hide_border=true"
     alt="GitHub Contribution Streak"
   />
 </p>
