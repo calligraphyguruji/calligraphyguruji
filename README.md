@@ -174,12 +174,12 @@ https://github.com/calligraphyguruji/SIMS_Student_InternShip_Management_System
 </p>
 ---
 
-<h2 align="center">📈 GitHub Contribution Activity</h2>
+<h2 align="center">🔥 GitHub Contribution Streak</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=calligraphyguruji&theme=github-compact&hide_border=true"
-    alt="GitHub Activity Graph"
+    src="https://streak-stats.demolab.com/?user=calligraphyguruji&theme=default&hide_border=true"
+    alt="GitHub Streak"
   />
 </p>
 
