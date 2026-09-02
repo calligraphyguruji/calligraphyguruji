@@ -152,15 +152,21 @@
 
 ---
 
-## 📊 GitHub Analytics & Streak
+## 📊 GitHub Analytics & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=calligraphyguruji&show_icons=true&theme=tokyonight&hide_border=true" height="175" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=calligraphyguruji&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=calligraphyguruji&show_icons=true&theme=react&hide_border=true" height="175" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=calligraphyguruji&layout=compact&theme=react&hide_border=true" height="175" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=calligraphyguruji&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=calligraphyguruji&theme=react&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/calligraphyguruji">
+    <img src="https://github-activity-graph.vercel.app/graph?username=calligraphyguruji&theme=react-dark&hide_border=true" alt="Aman's GitHub Activity Graph" width="95%"/>
+  </a>
 </p>
 
 ---
