@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Mishra</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=B.Tech+CSE+Student+%E2%80%A2+Software+Developer;Data+Structures+%26+Algorithms+in+C%2B%2B;Full-Stack+Web+Developer+(React+%E2%80%A2+Node+%E2%80%A2+Express);AI%2FML+%26+Data+Analysis+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=B.Tech+CSE+Student+%E2%80%A2+Software+Developer;Data+Structures+%26+Algorithms+in+C%2B%2B;Full-Stack+Developer+(React+%E2%80%A2+FastAPI+%E2%80%A2+Node);AI%2FML+%26+Data+Analysis+Learner" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 - 🎓 **B.Tech CSE Student** passionate about **Software Development** & scalable systems
 - 💡 Actively solving problems in **Data Structures & Algorithms** using **C++**
-- 🌐 Building robust, full-stack applications with **React.js, Node.js, Express.js, & MongoDB**
+- 🌐 Building robust, full-stack applications with **React.js, FastAPI, Node.js, PostgreSQL, & MongoDB**
 - 🤖 Exploring **Artificial Intelligence, Machine Learning & Data Analysis**
 - ⚡ Focusing on clean architecture, optimized algorithms, and practical software engineering
 - 🎯 Aspiring **Software Development Engineer (SDE)**
@@ -46,6 +46,7 @@
 ### 🌐 Frontend Development
 <p align="left">
   <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45"/></a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" width="45" height="45"/></a>
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="45" height="45"/></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="45" height="45"/></a>
   <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/></a>
@@ -54,27 +55,32 @@
 
 ### ⚙️ Backend & APIs
 <p align="left">
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="45" height="45"/></a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="45" height="45"/></a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="45" height="45"/></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="45" height="45"/></a>
+  <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" width="45" height="45"/></a>
 </p>
 
 ### 🤖 AI / Machine Learning & Data Analysis
 <p align="left">
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/></a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="48" height="45"/></a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="45" height="45"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/></a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="45" height="45"/></a>
 </p>
 
 ### 🗄️ Databases
 <p align="left">
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/></a>
+  <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="45" height="45"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/></a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="45" height="45"/></a>
 </p>
 
 ### 🔧 Tools & Platforms
 <p align="left">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/></a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/></a>
@@ -87,12 +93,12 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎓 SIMS — Student Internship Management System</h3>
-      <p>A full-stack enterprise platform for managing student internships, application pipelines, corporate listings, and administrative review workflows.</p>
+      <h3>💼 KaushalNexus — Employment & Skilling Intelligence Platform</h3>
+      <p>A national-scale skilling intelligence platform built for SIH 2026 (Problem Statement 135), featuring longitudinal learner tracking, AI skill gap diagnostics via Gemini, district analytics, and ML job matching.</p>
       <p>
-        <b>Tech Stack:</b> <code>React.js</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code> <code>JWT Auth</code>
+        <b>Tech Stack:</b> <code>React 19</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>Redis</code> <code>Gemini AI</code> <code>Tailwind CSS</code>
       </p>
-      <a href="https://github.com/calligraphyguruji/SIMS_Student_InternShip_Management_System">
+      <a href="https://github.com/calligraphyguruji/Kaushal-Nexus">
         <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="View Repository"/>
       </a>
     </td>
