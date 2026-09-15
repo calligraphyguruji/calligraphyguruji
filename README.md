@@ -23,9 +23,10 @@
 
 ## 👨‍💻 About Me
 
+- 🌐 Explore my portfolio & live projects at **[calligraphyguruji.dev](https://www.calligraphyguruji.dev/)**
 - 🎓 **B.Tech CSE Student** passionate about **Software Development** & scalable systems
 - 💡 Actively solving problems in **Data Structures & Algorithms** using **C++**
-- 🌐 Building robust, full-stack applications with **React.js, FastAPI, Node.js, PostgreSQL, & MongoDB**
+- 💻 Building robust, full-stack applications with **React.js, FastAPI, Node.js, PostgreSQL, & MongoDB**
 - 🤖 Exploring **Artificial Intelligence, Machine Learning & Data Analysis**
 - ⚡ Focusing on clean architecture, optimized algorithms, and practical software engineering
 - 🎯 Aspiring **Software Development Engineer (SDE)**
@@ -180,6 +181,9 @@
 ## 🤝 Connect With Me
 
 <p align="center">
+  <a href="https://www.calligraphyguruji.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/calligraphyguruji/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
