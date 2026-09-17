@@ -159,10 +159,10 @@
     <img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
   </a>
   <a href="https://leetcode.com/u/calligraphyguruji/" target="_blank">
-    <img src="https://img.shields.io/badge/Current%20Streak-62%20Days-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Current Streak"/>
+    <img src="https://img.shields.io/badge/Current%20Streak-63%20Days-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Current Streak"/>
   </a>
   <a href="https://leetcode.com/u/calligraphyguruji/" target="_blank">
-    <img src="https://img.shields.io/badge/Max%20Streak-62%20Days-FF6B35?style=for-the-badge" alt="Max Streak"/>
+    <img src="https://img.shields.io/badge/Max%20Streak-63%20Days-FF6B35?style=for-the-badge" alt="Max Streak"/>
   </a>
   <img src="https://img.shields.io/badge/Data%20Structures-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Data Structures"/>
   <img src="https://img.shields.io/badge/Algorithms-FF6B35?style=for-the-badge" alt="Algorithms"/>
