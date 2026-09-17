@@ -132,7 +132,7 @@ function generateSvg({ streak, maxStreak, totalActiveDays }) {
   <g transform="translate(88, 0)">
     <text x="0" y="52" text-anchor="middle" class="stat-num" font-size="26" fill="#f0f6fc">${totalActiveDays}</text>
     <text x="0" y="78" text-anchor="middle" class="stat-label" font-size="11.5" fill="#8b949e">TOTAL ACTIVE DAYS</text>
-    <text x="0" y="98" text-anchor="middle" class="stat-sub" font-size="10.5" fill="#6e7681">Past Year Activity</text>
+    <text x="0" y="98" text-anchor="middle" class="stat-sub" font-size="10.5" fill="#6e7681">All-Time Activity</text>
   </g>
 
   <!-- Vertical Divider 1 -->
