@@ -143,14 +143,23 @@
 ## 🧠 LeetCode & Problem Solving
 
 <p align="center">
-  <a href="https://leetcode.com/u/calligraphyguruji/">
+  <a href="https://leetcode.com/u/calligraphyguruji/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/calligraphyguruji?theme=dark&font=Karma&ext=heatmap" alt="Aman Mishra's LeetCode Stats"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/calligraphyguruji/">
+  <a href="https://leetcode.com/u/calligraphyguruji/" target="_blank">
+    <img src="https://github-readme-leetcode-stats.vercel.app/api/card?username=calligraphyguruji&sections=streak&theme=dark&hide_border=true&ring=FFA116&fire=FFA116&currStreakNum=FFA116&currStreakLabel=FFA116" alt="Aman Mishra's LeetCode Streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/calligraphyguruji/" target="_blank">
     <img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
+  </a>
+  <a href="https://leetcode.com/u/calligraphyguruji/" target="_blank">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-readme-leetcode-stats.vercel.app%2Fapi%2Fcard%3Fusername%3Dcalligraphyguruji%26type%3Djson&query=%24.currentStreak&label=Streak&suffix=%20Days&style=for-the-badge&logo=leetcode&logoColor=black&color=FFA116" alt="LeetCode Current Streak"/>
   </a>
   <img src="https://img.shields.io/badge/Data%20Structures-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Data Structures"/>
   <img src="https://img.shields.io/badge/Algorithms-FF6B35?style=for-the-badge" alt="Algorithms"/>
