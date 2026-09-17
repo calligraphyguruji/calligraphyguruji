@@ -150,7 +150,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/calligraphyguruji/" target="_blank">
-    <img src="https://raw.githubusercontent.com/calligraphyguruji/calligraphyguruji/main/assets/leetcode-streak.svg" alt="Aman Mishra's LeetCode Streak"/>
+    <img src="assets/leetcode-streak.svg" alt="Aman Mishra's LeetCode Streak"/>
   </a>
 </p>
 
