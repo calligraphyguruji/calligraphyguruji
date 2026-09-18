@@ -2,9 +2,10 @@ name: Update LeetCode Streak
 
 on:
   schedule:
-    # Runs at 18:30 UTC (00:00 IST midnight) and 00:30 UTC (06:00 IST) every day
-    - cron: '30 18 * * *'
-    - cron: '30 0 * * *'
+    # Runs hourly to ensure the profile streak card stays current throughout the day
+    - cron: '0 * * * *'
+  repository_dispatch:
+    types: [update_streak, leetcode_update]
   workflow_dispatch:
 
 jobs:

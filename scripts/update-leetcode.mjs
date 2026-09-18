@@ -181,17 +181,13 @@ async function main() {
   const readmePath = path.join(rootDir, 'README.md');
   let readme = fs.readFileSync(readmePath, 'utf-8');
 
-  // Replace any streak badge in README:
-  // e.g. Current%20Streak-([0-9]+)%20Days or Streak-([0-9]+)%20Days
+  // Replace any static streak badge in README:
+  // e.g. Current%20Streak-([0-9]+)%20Days or Max%20Streak-([0-9]+)%20Days
   const streakBadgeRegex = /https:\/\/img\.shields\.io\/badge\/Current%20Streak-[0-9]+%20Days-FFA116/g;
-  if (streakBadgeRegex.test(readme)) {
-    readme = readme.replace(streakBadgeRegex, `https://img.shields.io/badge/Current%20Streak-${stats.streak}%20Days-FFA116`);
-  }
+  readme = readme.replace(streakBadgeRegex, `https://img.shields.io/badge/Current%20Streak-${stats.streak}%20Days-FFA116`);
 
   const maxStreakBadgeRegex = /https:\/\/img\.shields\.io\/badge\/Max%20Streak-[0-9]+%20Days-FF6B35/g;
-  if (maxStreakBadgeRegex.test(readme)) {
-    readme = readme.replace(maxStreakBadgeRegex, `https://img.shields.io/badge/Max%20Streak-${stats.maxStreak}%20Days-FF6B35`);
-  }
+  readme = readme.replace(maxStreakBadgeRegex, `https://img.shields.io/badge/Max%20Streak-${stats.maxStreak}%20Days-FF6B35`);
 
   fs.writeFileSync(readmePath, readme, 'utf-8');
   console.log('Updated README.md badges with streak', stats.streak, 'and max streak', stats.maxStreak);
