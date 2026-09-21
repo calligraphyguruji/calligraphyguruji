@@ -162,7 +162,7 @@
     <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcalligraphyguruji%2FLeetCode-Questions%2Fmain%2Fstats.json&query=%24.leetcode.streak&label=Current%20Streak&suffix=%20Days&color=FFA116&style=for-the-badge&logo=leetcode&logoColor=black" alt="Current Streak"/>
   </a>
   <a href="https://leetcode.com/u/calligraphyguruji/" target="_blank">
-    <img src="https://img.shields.io/badge/Max%20Streak-66%20Days-FF6B35?style=for-the-badge" alt="Max Streak"/>
+    <img src="https://img.shields.io/badge/Max%20Streak-67%20Days-FF6B35?style=for-the-badge" alt="Max Streak"/>
   </a>
   <img src="https://img.shields.io/badge/Data%20Structures-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Data Structures"/>
   <img src="https://img.shields.io/badge/Algorithms-FF6B35?style=for-the-badge" alt="Algorithms"/>
