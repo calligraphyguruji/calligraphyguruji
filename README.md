@@ -174,7 +174,7 @@
 ## 📊 GitHub Analytics & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=calligraphyguruji&show_icons=true&theme=react&hide_border=true" height="175" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=calligraphyguruji&show_icons=true&theme=react&hide_border=true&hide_rank=true" height="175" alt="GitHub Stats"/>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=calligraphyguruji&layout=compact&theme=react&hide_border=true" height="175" alt="Top Languages"/>
 </p>
 
