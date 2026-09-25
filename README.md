@@ -99,6 +99,9 @@
       <p>
         <b>Tech Stack:</b> <code>React 19</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>Redis</code> <code>Gemini AI</code> <code>Tailwind CSS</code>
       </p>
+      <a href="https://kaushal-nexus.vercel.app" target="_blank">
+        <img src="https://img.shields.io/badge/Live%20Demo-0E75B6?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+      </a>
       <a href="https://github.com/calligraphyguruji/Kaushal-Nexus">
         <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="View Repository"/>
       </a>
@@ -109,6 +112,9 @@
       <p>
         <b>Tech Stack:</b> <code>JavaScript (ES6+)</code> <code>HTML5</code> <code>CSS3</code> <code>Responsive Design</code>
       </p>
+      <a href="https://amazon-clone-beta-bay.vercel.app" target="_blank">
+        <img src="https://img.shields.io/badge/Live%20Demo-0E75B6?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+      </a>
       <a href="https://github.com/calligraphyguruji/myecommerce-project-clone">
         <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="View Repository"/>
       </a>
@@ -131,6 +137,9 @@
       <p>
         <b>Tech Stack:</b> <code>JavaScript</code> <code>HTML5</code> <code>CSS3</code> <code>DOM Manipulation</code>
       </p>
+      <a href="https://rock-paper-scissors-game-seven-tawny.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Live%20Demo-0E75B6?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+      </a>
       <a href="https://github.com/calligraphyguruji/rock-paper-scissors-game">
         <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="View Repository"/>
       </a>
