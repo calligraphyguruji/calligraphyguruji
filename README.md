@@ -104,12 +104,12 @@
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>💼 Internship Advisor</h3>
-      <p>A smart machine learning mini-project designed to analyze student profiles and recommend tailored internship opportunities matching their skill sets.</p>
+      <h3>🛒 Amazon Clone — E-Commerce Web App</h3>
+      <p>A responsive multi-page e-commerce web application inspired by Amazon, featuring dynamic product rendering, cart interactions, checkout review, order history, and package tracking.</p>
       <p>
-        <b>Tech Stack:</b> <code>Python</code> <code>Machine Learning</code> <code>Data Analysis</code>
+        <b>Tech Stack:</b> <code>JavaScript (ES6+)</code> <code>HTML5</code> <code>CSS3</code> <code>Responsive Design</code>
       </p>
-      <a href="https://github.com/calligraphyguruji/Internship-Advisor-Mini-Project">
+      <a href="https://github.com/calligraphyguruji/myecommerce-project-clone">
         <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="View Repository"/>
       </a>
     </td>
@@ -126,12 +126,12 @@
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>📺 YouTube Web Clone</h3>
-      <p>A responsive web clone of YouTube exploring frontend layouts, modern video listing grids, navigation architecture, and CSS design patterns.</p>
+      <h3>✊ Rock Paper Scissors Game</h3>
+      <p>An interactive browser-based Rock Paper Scissors game featuring player vs. computer gameplay, dynamic score tracking, random move generation, and clean DOM manipulation.</p>
       <p>
-        <b>Tech Stack:</b> <code>HTML5</code> <code>CSS3</code> <code>Responsive Design</code>
+        <b>Tech Stack:</b> <code>JavaScript</code> <code>HTML5</code> <code>CSS3</code> <code>DOM Manipulation</code>
       </p>
-      <a href="https://github.com/calligraphyguruji/YouTube-Clone">
+      <a href="https://github.com/calligraphyguruji/rock-paper-scissors-game">
         <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="View Repository"/>
       </a>
     </td>
