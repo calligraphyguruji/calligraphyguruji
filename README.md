@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/github/stars/calligraphyguruji?label=Stars&style=for-the-badge&color=0e75b6" alt="GitHub Stars"/>
   </a>
   <a href="https://github.com/calligraphyguruji?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-11-0e75b6?style=for-the-badge&logo=github" alt="GitHub Repositories"/>
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fcalligraphyguruji&query=%24.public_repos&label=Repositories&style=for-the-badge&color=0e75b6&logo=github" alt="GitHub Repositories"/>
   </a>
 </p>
 
