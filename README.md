@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=calligraphyguruji">
-    <img src="https://komarev.com/ghpvc/?username=calligraphyguruji&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <a href="https://hits.sh/github.com/calligraphyguruji/">
+    <img src="https://hits.sh/github.com/calligraphyguruji.svg?style=for-the-badge&label=Profile%20Views&color=0e75b6" alt="Profile Views"/>
   </a>
   <a href="https://github.com/calligraphyguruji?tab=followers">
     <img src="https://img.shields.io/github/followers/calligraphyguruji?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub Followers"/>
