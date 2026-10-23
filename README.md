@@ -93,6 +93,11 @@
   <tr>
     <td width="50%" valign="top">
       <h3>💼 KaushalNexus — Employment & Skilling Intelligence Platform</h3>
+      <p align="center">
+        <a href="https://kaushal-nexus.vercel.app">
+          <img src="./assets/project-previews/kaushal-nexus.webp" alt="KaushalNexus homepage preview" width="300"/>
+        </a>
+      </p>
       <p>A national-scale skilling intelligence platform built for SIH 2026 (Problem Statement 135), featuring longitudinal learner tracking, AI skill gap diagnostics via Gemini, district analytics, and ML job matching.</p>
       <p>
         <b>Tech Stack:</b> <code>React 19</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>Redis</code> <code>Gemini AI</code> <code>Tailwind CSS</code>
@@ -106,11 +111,16 @@
     </td>
     <td width="50%" valign="top">
       <h3>🛒 Amazon Clone — E-Commerce Web App</h3>
+      <p align="center">
+        <a href="https://myecommerce-project-clone.vercel.app/">
+          <img src="./assets/project-previews/amazon-clone.webp" alt="Amazon Clone storefront preview" width="300"/>
+        </a>
+      </p>
       <p>A responsive multi-page e-commerce web application inspired by Amazon, featuring dynamic product rendering, cart interactions, checkout review, order history, and package tracking.</p>
       <p>
         <b>Tech Stack:</b> <code>JavaScript (ES6+)</code> <code>HTML5</code> <code>CSS3</code> <code>Responsive Design</code>
       </p>
-      <a href="https://amazon-clone-beta-bay.vercel.app" target="_blank">
+      <a href="https://myecommerce-project-clone.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Live%20Demo-0E75B6?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
       </a>
       <a href="https://github.com/calligraphyguruji/myecommerce-project-clone">
@@ -121,6 +131,11 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🧩 LeetCode Problem Solutions</h3>
+      <p align="center">
+        <a href="https://github.com/calligraphyguruji/LeetCode-Questions">
+          <img src="./assets/project-previews/leetcode-solutions.webp" alt="LeetCode Solutions repository — Graphs directory preview" width="300"/>
+        </a>
+      </p>
       <p>A structured repository featuring optimized solutions and algorithmic pattern breakdowns across key Data Structures & Algorithms topics in C++.</p>
       <p>
         <b>Tech Stack:</b> <code>C++</code> <code>DSA</code> <code>Algorithms</code>
@@ -130,15 +145,20 @@
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>✊ Rock Paper Scissors Game</h3>
-      <p>An interactive browser-based Rock Paper Scissors game featuring player vs. computer gameplay, dynamic score tracking, random move generation, and clean DOM manipulation.</p>
-      <p>
-        <b>Tech Stack:</b> <code>JavaScript</code> <code>HTML5</code> <code>CSS3</code> <code>DOM Manipulation</code>
+      <h3>🌿 Bodhi Sakha</h3>
+      <p align="center">
+        <a href="https://bodhi-sakha-phi.vercel.app/">
+          <img src="./assets/project-previews/bodhi-sakha.webp" alt="Bodhi Sakha chat interface preview" width="300"/>
+        </a>
       </p>
-      <a href="https://rock-paper-scissors-game-seven-tawny.vercel.app/" target="_blank">
+      <p>A conversational AI assistant with streaming Gemini responses, document Q&amp;A, Deep Thinking mode, and searchable chat history.</p>
+      <p>
+        <b>Tech Stack:</b> <code>React 19</code> <code>Vite</code> <code>Express 5</code> <code>Gemini AI</code> <code>PostgreSQL</code>
+      </p>
+      <a href="https://bodhi-sakha-phi.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Live%20Demo-0E75B6?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
       </a>
-      <a href="https://github.com/calligraphyguruji/rock-paper-scissors-game">
+      <a href="https://github.com/calligraphyguruji/basic-chatbot">
         <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="View Repository"/>
       </a>
     </td>
