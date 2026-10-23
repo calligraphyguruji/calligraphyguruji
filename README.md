@@ -9,10 +9,10 @@
     <img src="https://img.shields.io/github/followers/calligraphyguruji?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub Followers"/>
   </a>
   <a href="https://github.com/calligraphyguruji">
-    <img src="https://img.shields.io/github/stars/calligraphyguruji?label=Stars&style=for-the-badge&color=0e75b6" alt="GitHub Stars"/>
+    <img src="https://img.shields.io/github/stars/calligraphyguruji?affiliations=OWNER&label=Stars&style=for-the-badge&color=0e75b6&cacheSeconds=3600" alt="GitHub Stars"/>
   </a>
   <a href="https://github.com/calligraphyguruji?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fcalligraphyguruji&query=%24.public_repos&label=Repositories&style=for-the-badge&color=0e75b6&logo=github" alt="GitHub Repositories"/>
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fcalligraphyguruji&query=%24%5B%27public_repos%27%5D&label=Repositories&style=for-the-badge&color=0e75b6&logo=github&cacheSeconds=3600" alt="GitHub Repositories"/>
   </a>
 </p>
 
@@ -166,7 +166,7 @@
     <img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
   </a>
   <a href="https://leetcode.com/u/calligraphyguruji/" target="_blank">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcalligraphyguruji%2FLeetCode-Questions%2Fmain%2Fstats.json&query=%24.leetcode.streak&label=Current%20Streak&suffix=%20Days&color=FFA116&style=for-the-badge&logo=leetcode&logoColor=black" alt="Current Streak"/>
+    <img src="https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcalligraphyguruji%2Fcalligraphyguruji%2Fmain%2Fassets%2Fleetcode-streak.svg&query=%2F%2F%2A%5Blocal-name%28%29%3D%27text%27%5D%5B.%3D%27CURRENT%20STREAK%27%5D%2Fpreceding-sibling%3A%3A%2A%5Blocal-name%28%29%3D%27text%27%5D%5B1%5D%2Ftext%28%29&label=Current%20Streak&suffix=%20Days&color=FFA116&style=for-the-badge&logo=leetcode&logoColor=black&cacheSeconds=3600" alt="Current Streak"/>
   </a>
   <a href="https://leetcode.com/u/calligraphyguruji/" target="_blank">
     <img src="https://img.shields.io/badge/Max%20Streak-98%20Days-FF6B35?style=for-the-badge" alt="Max Streak"/>
@@ -194,6 +194,12 @@
     <img src="https://github-activity-graph.vercel.app/graph?username=calligraphyguruji&theme=react-dark&hide_border=true" alt="Aman's GitHub Activity Graph" width="95%"/>
   </a>
 </p>
+
+---
+
+## 📊 GitHub Contribution Heatmap
+
+![GitHub Contribution Heatmap](./assets/github-contribution-heatmap.svg)
 
 ---
 

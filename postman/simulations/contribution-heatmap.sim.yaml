@@ -1,0 +1,5 @@
+simulation: contribution-heatmap
+routing: path
+mocks:
+  - routeKey: github
+    path: ../mocks/github-contributions/config.yaml

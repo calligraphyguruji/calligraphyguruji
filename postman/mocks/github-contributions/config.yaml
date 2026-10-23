@@ -1,0 +1,4 @@
+version: 1
+name: github-contributions-test-only
+interceptRequests: true
+mockSrc: default.js
